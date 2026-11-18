@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private_key*
+config.local.php
+*.log
+vendor/
+node_modules/
